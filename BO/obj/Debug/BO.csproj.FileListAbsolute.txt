@@ -1,0 +1,45 @@
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\bin\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\bin\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\bin\Debug\DAL.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\bin\Debug\Entity.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\bin\Debug\DAL.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\bin\Debug\Entity.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\obj\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v2\BO\obj\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\bin\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\bin\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\bin\Debug\DAL.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\bin\Debug\Entity.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\bin\Debug\DAL.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\bin\Debug\Entity.pdb
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\obj\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\obj\Debug\BO.pdb
+\\psf\Home\Downloads\Home Work4 v3\BO\bin\Debug\BO.dll
+\\psf\Home\Downloads\Home Work4 v3\BO\bin\Debug\BO.pdb
+\\psf\Home\Downloads\Home Work4 v3\BO\bin\Debug\DAL.dll
+\\psf\Home\Downloads\Home Work4 v3\BO\bin\Debug\Entity.dll
+\\psf\Home\Downloads\Home Work4 v3\BO\bin\Debug\DAL.pdb
+\\psf\Home\Downloads\Home Work4 v3\BO\bin\Debug\Entity.pdb
+\\psf\Home\Downloads\Home Work4 v3\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\Home Work4 v3\BO\obj\Debug\BO.dll
+\\psf\Home\Downloads\Home Work4 v3\BO\obj\Debug\BO.pdb
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\bin\Debug\Entity.dll
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\bin\Debug\Entity.pdb
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\APL\My_Car_Project - Copy\BO\obj\Debug\BO.pdb
+\\psf\Home\Documents\APL\My_Car_Project\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\APL\My_Car_Project\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\APL\My_Car_Project\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\APL\My_Car_Project\BO\bin\Debug\Entity.dll
+\\psf\Home\Documents\APL\My_Car_Project\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\APL\My_Car_Project\BO\bin\Debug\Entity.pdb
+\\psf\Home\Documents\APL\My_Car_Project\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\APL\My_Car_Project\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\APL\My_Car_Project\BO\obj\Debug\BO.pdb
