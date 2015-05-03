@@ -27,3 +27,10 @@ H:\2nd year, 1st term\C# Program\Home Work4 v3\DAL\obj\Debug\DAL.pdb
 \\psf\Home\Documents\APL\My_Car_Project - Copy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 \\psf\Home\Documents\APL\My_Car_Project - Copy\DAL\obj\Debug\DAL.dll
 \\psf\Home\Documents\APL\My_Car_Project - Copy\DAL\obj\Debug\DAL.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\DAL\bin\Debug\DAL.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\DAL\bin\Debug\DAL.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\DAL\bin\Debug\Entity.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\DAL\bin\Debug\Entity.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\APL\My_Car_Project v1\DAL\obj\Debug\DAL.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\DAL\obj\Debug\DAL.pdb

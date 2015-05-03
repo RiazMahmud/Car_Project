@@ -81,13 +81,11 @@ namespace Entity
 
             //wheelFront
             g.DrawEllipse(p, 50, 152, 23, 23);
-            // g.DrawEllipse(p4, 48, 154, 18, 18);
             g.DrawEllipse(p5, 54, 156, 15, 15);
             g.DrawEllipse(p6, 58, 160, 8, 8);
 
             //wheelBack
             g.DrawEllipse(p, 251, 151, 23, 23);
-            // g.DrawEllipse(p4, 249, 153, 18, 18);
             g.DrawEllipse(p5, 255, 155, 15, 15);
             g.DrawEllipse(p6, 259, 159, 8, 8);
             //headLight
@@ -172,13 +170,11 @@ namespace Entity
 
             //wheelFront
             g.DrawEllipse(p, 50, 152, 23, 23);
-            // g.DrawEllipse(p4, 48, 154, 18, 18);
             g.DrawEllipse(p5, 54, 156, 15, 15);
             g.DrawEllipse(p6, 58, 160, 8, 8);
 
             //wheelBack
             g.DrawEllipse(p, 251, 151, 23, 23);
-            // g.DrawEllipse(p4, 249, 153, 18, 18);
             g.DrawEllipse(p5, 255, 155, 15, 15);
             g.DrawEllipse(p6, 259, 159, 8, 8);
             //headLight
@@ -189,55 +185,102 @@ namespace Entity
         }
         public void carUp(Graphics g)
         {
-            Pen bluepen = new Pen(Color.Crimson, 4);
-            g.DrawLine(bluepen, 165, 60, 215, 60);
-            g.DrawLine(bluepen, 165, 60, 150, 100);
-            g.DrawLine(bluepen, 215, 60, 230, 100);
 
-            //headLight
-            g.DrawEllipse(bluepen, 170, 70, 7, 12);
-            g.DrawEllipse(bluepen, 202, 70, 7, 12);
+            Pen bluepen = new Pen(Color.Crimson, 3);
+            Pen gold = new Pen(Color.Gold, 20);
+            Pen black = new Pen(Color.Gray, 12);
+            Pen light = new Pen(Color.Wheat, 2);
+            Pen line = new Pen(Color.Gold, 1);
+            //g.DrawLine(bluepen, 630, 391, 630, 491);
 
-            //bacckLight
-            g.DrawEllipse(bluepen, 170, 210, 7, 8);
-            g.DrawEllipse(bluepen, 202, 210, 7, 8);
+            //front
+            g.DrawLine(bluepen, 135, 5, 175, 5);
+            g.DrawLine(bluepen, 120, 40, 135, 5);
+            g.DrawLine(bluepen, 190, 40, 175, 5);
+            g.DrawLine(gold, 155, 20, 155, 30);
+            //back
+            g.DrawLine(bluepen, 135, 160, 175, 160);
+            g.DrawLine(bluepen, 120, 140, 135, 160);
+            g.DrawLine(bluepen, 190, 140, 175, 160);
+            g.DrawLine(line, 127, 145, 182, 145);
+            g.DrawLine(line, 133, 150, 177, 150);
+            g.DrawLine(line, 135, 155, 175, 155);
+            //midle body
+            g.DrawLine(bluepen, 120, 40, 120, 140);
+            g.DrawLine(bluepen, 190, 40, 190, 140);
+            g.DrawLine(bluepen, 120, 40, 190, 40);
+            g.DrawLine(bluepen, 120, 140, 190, 140);
+            g.DrawLine(bluepen, 135, 60, 175, 60);
+            g.DrawLine(bluepen, 120, 40, 135, 60);
+            g.DrawLine(bluepen, 190, 40, 175, 60);
+            g.DrawLine(bluepen, 135, 120, 175, 120);
+            g.DrawLine(bluepen, 120, 140, 135, 120);
+            g.DrawLine(bluepen, 190, 140, 175, 120);
+            g.DrawLine(bluepen, 135, 60, 135, 120);
+            g.DrawLine(bluepen, 175, 60, 175, 120);
+            g.DrawLine(gold, 155, 80, 155, 100);
+            g.DrawLine(black, 128, 60, 128, 120);
+            g.DrawLine(black, 183, 60, 183, 120);
 
-            g.DrawLine(bluepen, 150, 100, 230, 100);
-            g.DrawLine(bluepen, 150, 120, 230, 120);
-            g.DrawLine(bluepen, 150, 200, 230, 200);
-            g.DrawLine(bluepen, 150, 100, 150, 200);
-            g.DrawLine(bluepen, 230, 100, 230, 200);
+            //front left light
+            g.DrawLine(light, 119, 40, 110, 47);
+            g.DrawLine(light, 110, 47, 110, 52);
+            g.DrawLine(light, 110, 52, 119, 52);
+            //front right light
+            g.DrawLine(light, 191, 40, 200, 47);
+            g.DrawLine(light, 200, 47, 200, 52);
+            g.DrawLine(light, 200, 52, 191, 52);
 
-            g.DrawLine(bluepen, 160, 220, 220, 220);
-            g.DrawLine(bluepen, 150, 200, 160, 220);
-            g.DrawLine(bluepen, 230, 200, 220, 220);
         }
 
         public void carDown(Graphics g)
         {
-            Pen bluepen = new Pen(Color.Crimson, 4);
-            g.DrawLine(bluepen, 160, 80, 220, 80);
-            g.DrawLine(bluepen, 160, 80, 150, 100);
-            g.DrawLine(bluepen, 220, 80, 230, 100);
+            Pen bluepen = new Pen(Color.Crimson, 3);
+            Pen gold = new Pen(Color.Gold, 20);
+            Pen black = new Pen(Color.Gray, 12);
+            Pen light = new Pen(Color.Wheat, 2);
+            Pen line = new Pen(Color.Gold, 1);
+            //g.DrawLine(bluepen, 630, 391, 630, 491);
 
-            g.DrawLine(bluepen, 150, 100, 230, 100);
 
-            //backLight
-            g.DrawEllipse(bluepen, 170, 85, 7, 8);
-            g.DrawEllipse(bluepen, 202, 85, 7, 8);
+            //front
+            g.DrawLine(bluepen, 135, 175, 175, 175);
+            g.DrawLine(bluepen, 120, 140, 135, 175);
+            g.DrawLine(bluepen, 190, 140, 175, 175);
+            g.DrawLine(gold, 155, 160, 155, 150);
 
-            //headLight
-            g.DrawEllipse(bluepen, 170, 220, 7, 12);
-            g.DrawEllipse(bluepen, 202, 220, 7, 12);
+            //back
+            g.DrawLine(bluepen, 135, 20, 175, 20);
+            g.DrawLine(bluepen, 120, 40, 135, 20);
+            g.DrawLine(bluepen, 190, 40, 175, 20);
+            g.DrawLine(line, 133, 25, 177, 25);
+            g.DrawLine(line, 131, 30, 179, 30);
+            g.DrawLine(line, 129, 35, 181, 35);
+            //midle body
+            g.DrawLine(bluepen, 120, 40, 120, 140);
+            g.DrawLine(bluepen, 190, 40, 190, 140);
+            g.DrawLine(bluepen, 120, 40, 190, 40);
+            g.DrawLine(bluepen, 120, 140, 190, 140);
+            g.DrawLine(bluepen, 135, 60, 175, 60);
+            g.DrawLine(bluepen, 120, 40, 135, 60);
+            g.DrawLine(bluepen, 190, 40, 175, 60);
+            g.DrawLine(bluepen, 135, 120, 175, 120);
+            g.DrawLine(bluepen, 120, 140, 135, 120);
+            g.DrawLine(bluepen, 190, 140, 175, 120);
+            g.DrawLine(bluepen, 135, 60, 135, 120);
+            g.DrawLine(bluepen, 175, 60, 175, 120);
+            g.DrawLine(gold, 155, 80, 155, 100);
+            g.DrawLine(black, 128, 60, 128, 120);
+            g.DrawLine(black, 183, 60, 183, 120);
 
-            g.DrawLine(bluepen, 150, 200, 230, 200);
-            g.DrawLine(bluepen, 150, 100, 150, 200);
-            g.DrawLine(bluepen, 230, 100, 230, 200);
-
-            g.DrawLine(bluepen, 150, 180, 230, 180);
-            g.DrawLine(bluepen, 165, 240, 215, 240);
-            g.DrawLine(bluepen, 150, 200, 165, 240);
-            g.DrawLine(bluepen, 230, 200, 215, 240);
+            //front left light
+            g.DrawLine(light, 119, 140, 110, 133);
+            g.DrawLine(light, 110, 133, 110, 128);
+            g.DrawLine(light, 110, 128, 119, 128);
+            //front right light
+            g.DrawLine(light, 191, 140, 200, 133);
+            g.DrawLine(light, 200, 133, 200, 128);
+            g.DrawLine(light, 200, 128, 191, 128);
         }
         public void carRightSideLight(Graphics g)
         {

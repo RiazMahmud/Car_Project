@@ -12,3 +12,8 @@ H:\2nd year, 1st term\C# Program\Home Work4 v3\Entity\obj\Debug\Entity.pdb
 \\psf\Home\Documents\APL\My_Car_Project - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 \\psf\Home\Documents\APL\My_Car_Project - Copy\Entity\obj\Debug\Entity.dll
 \\psf\Home\Documents\APL\My_Car_Project - Copy\Entity\obj\Debug\Entity.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\Entity\bin\Debug\Entity.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\Entity\bin\Debug\Entity.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\APL\My_Car_Project v1\Entity\obj\Debug\Entity.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\Entity\obj\Debug\Entity.pdb

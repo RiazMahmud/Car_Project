@@ -43,3 +43,12 @@ H:\2nd year, 1st term\C# Program\Home Work4 v3\BO\obj\Debug\BO.pdb
 \\psf\Home\Documents\APL\My_Car_Project\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
 \\psf\Home\Documents\APL\My_Car_Project\BO\obj\Debug\BO.dll
 \\psf\Home\Documents\APL\My_Car_Project\BO\obj\Debug\BO.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\bin\Debug\Entity.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\bin\Debug\Entity.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\BO\obj\Debug\BO.pdb

@@ -82,3 +82,18 @@ H:\2nd year, 1st term\C# Program\Home Work4 v3\UI\bin\Debug\DAL.pdb
 \\psf\Home\Documents\APL\My_Car_Project - Copy\UI\obj\Debug\UI.Car_UI.resources
 \\psf\Home\Documents\APL\My_Car_Project - Copy\UI\obj\Debug\UI.Properties.Resources.resources
 \\psf\Home\Documents\APL\My_Car_Project - Copy\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\UI.exe.config
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\obj\Debug\UI.exe
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\obj\Debug\UI.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\UI.exe
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\UI.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\BO.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\Entity.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\DAL.dll
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\BO.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\Entity.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\bin\Debug\DAL.pdb
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\obj\Debug\UI.Car_UI.resources
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\obj\Debug\UI.Properties.Resources.resources
+\\psf\Home\Documents\APL\My_Car_Project v1\UI\obj\Debug\UI.csproj.GenerateResource.Cache
